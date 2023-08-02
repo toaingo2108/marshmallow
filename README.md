@@ -3,7 +3,7 @@
 A Flutter project.
 
 ![Screenshot](https://github.com/toaingo2108/marshmallow/blob/main/screenshots/Screenshot1.png?raw=true)
-
+![Screenshot](https://github.com/toaingo2108/marshmallow/blob/main/screenshots/screen.gif?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
