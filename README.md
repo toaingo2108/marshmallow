@@ -2,7 +2,7 @@
 
 A Flutter project.
 
-![Screenshot](https://github.com/toaingo2108/marshmallow/screenshots/Screenshot1.png?raw=true)
+![Screenshot](https://github.com/toaingo2108/marshmallow/blob/main/screenshots/Screenshot1.png?raw=true)
 
 ## Getting Started
 
